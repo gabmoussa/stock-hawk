@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Works\Task\00_Site\001\02\3. StockHawkApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="D:\Works\Task\00_Site\001\02\3. StockHawkApp\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.2.1_83513d3eba19ac7925fad8db8bd0f87b27df48ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Works\Task\00_Site\001\02\3. StockHawkApp\app\build\intermediates\exploded-aar\net.simonvt.schematic\schematic\0.6.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f6f5730f19d22f177096c8d134d4892b0fbd631d">
+        <dex dex="D:\Works\Task\00_Site\001\02\3. StockHawkApp\app\build\intermediates\pre-dexed\debug\net.simonvt.schematic-schematic-0.6.3_aee679fc9b14f5582bd8f736df2d6546152c232e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.github.PhilJay\MPAndroidChart\v2.1.6\b036abbb61656165da99cf44898e4b9123687e65\MPAndroidChart-v2.1.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b036abbb61656165da99cf44898e4b9123687e65">
+        <dex dex="D:\Works\Task\00_Site\001\02\3. StockHawkApp\app\build\intermediates\pre-dexed\debug\MPAndroidChart-v2.1.6_6005432a56cb841c7b01c07617829df77b6f9c6b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Works\Task\00_Site\001\02\3. StockHawkApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="D:\Works\Task\00_Site\001\02\3. StockHawkApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.1_9c69ebaf7ae14d851d7489fcd4fff090d86b2499.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Works\Task\00_Site\001\02\3. StockHawkApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="D:\Works\Task\00_Site\001\02\3. StockHawkApp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-8.4.0_9f7f0e985ba06f11490ff4e1c04c6fa2ce394de1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Works\Task\00_Site\001\02\3. StockHawkApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="D:\Works\Task\00_Site\001\02\3. StockHawkApp\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.2.1_0ffd3cacd208318cf19544fcecdd741f5d957041.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Works\Task\00_Site\001\02\3. StockHawkApp\app\build\intermediates\exploded-aar\com.github.afollestad.material-dialogs\core\0.8.5.7\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a94e3ac390a37f149a235f7f5e1b49b65151c0bf">
+        <dex dex="D:\Works\Task\00_Site\001\02\3. StockHawkApp\app\build\intermediates\pre-dexed\debug\com.github.afollestad.material-dialogs-core-0.8.5.7_7caca6277a6ed14423f93eb62313c06bc470e1a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.5.0\4de2b4ed3445c37ec1720a7d214712e845a24636\okhttp-2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="D:\Works\Task\00_Site\001\02\3. StockHawkApp\app\build\intermediates\pre-dexed\debug\okhttp-2.5.0_c5a573687790528960a2cdb5042d396490d51899.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Works\Task\00_Site\001\02\3. StockHawkApp\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="D:\Works\Task\00_Site\001\02\3. StockHawkApp\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.1.1_3148deb5ca95b8a0332fbf64c522195df1a32a2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Works\Task\00_Site\001\02\3. StockHawkApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e810699eccecd305999dccc9b45c93c3c97e115a">
+        <dex dex="D:\Works\Task\00_Site\001\02\3. StockHawkApp\app\build\intermediates\pre-dexed\debug\instant-run_ccedfdc9e6e69dec0cefcb8aea9068b06dcb1c99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Works\Task\00_Site\001\02\3. StockHawkApp\app\build\intermediates\exploded-aar\me.zhanghai.android.materialprogressbar\library\1.1.5\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4a9f97c742d058ca55948643c06f447895a9af76">
+        <dex dex="D:\Works\Task\00_Site\001\02\3. StockHawkApp\app\build\intermediates\pre-dexed\debug\me.zhanghai.android.materialprogressbar-library-1.1.5_c078f01c82e05d7a096cb1c96ac0f9bdfe17cd3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Works\Task\00_Site\001\02\3. StockHawkApp\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="D:\Works\Task\00_Site\001\02\3. StockHawkApp\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.2.1_6b5e5c95a40d83b660cc482f30071cf64b560fee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Works\Task\00_Site\001\02\3. StockHawkApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="D:\Works\Task\00_Site\001\02\3. StockHawkApp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-measurement-8.4.0_c30f310a1bdc8a50826ee183ba3d5fa435afa29b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\SDK\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="D:\Works\Task\00_Site\001\02\3. StockHawkApp\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.1_28158f9bfd6c823dba38e5571ca1c968f5a6fe84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="D:\Works\Task\00_Site\001\02\3. StockHawkApp\app\build\intermediates\pre-dexed\debug\library-2.4.0_dd460f45d27a359687729c3c169358b1eda3100b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Works\Task\00_Site\001\02\3. StockHawkApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="D:\Works\Task\00_Site\001\02\3. StockHawkApp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-8.4.0_3c3c7aa91e57e51f4e40321df7c0aad7f9f36823.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Works\Task\00_Site\001\02\3. StockHawkApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a886b94e86ccfe5a4112bf0d1d5751e7f6f41e2d">
+        <dex dex="D:\Works\Task\00_Site\001\02\3. StockHawkApp\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_7c909447930adb444ce8d2a76367e119058742b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\net.simonvt.schematic\schematic-annotations\0.6.3\4df5a4bbbacf9ea3c4aebf7d3c61465afb648e36\schematic-annotations-0.6.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4df5a4bbbacf9ea3c4aebf7d3c61465afb648e36">
+        <dex dex="D:\Works\Task\00_Site\001\02\3. StockHawkApp\app\build\intermediates\pre-dexed\debug\schematic-annotations-0.6.3_cc21d298f529b360ad24f10ceb86cab4c2a50093.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Works\Task\00_Site\001\02\3. StockHawkApp\app\build\intermediates\exploded-aar\com.melnykov\floatingactionbutton\1.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="65620ba5e576dcec2c86efa440b00d042a27383b">
+        <dex dex="D:\Works\Task\00_Site\001\02\3. StockHawkApp\app\build\intermediates\pre-dexed\debug\com.melnykov-floatingactionbutton-1.2.0_09729e8cf8999c1461449a6aa017b5ff82f710cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Works\Task\00_Site\001\02\3. StockHawkApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="D:\Works\Task\00_Site\001\02\3. StockHawkApp\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.1_398a0953043b5421af0e51b344e4a1252b030eda.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="D:\Works\Task\00_Site\001\02\3. StockHawkApp\app\build\intermediates\pre-dexed\debug\okio-1.6.0_c410569bd3ae660f2a7eceb3af69efc833b46b70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Works\Task\00_Site\001\02\3. StockHawkApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="D:\Works\Task\00_Site\001\02\3. StockHawkApp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.4.0_92aa4ce155878f5c94b73c846abbe6165c214e8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Works\Task\00_Site\001\02\3. StockHawkApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="D:\Works\Task\00_Site\001\02\3. StockHawkApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.2.1_a68b36f563878d3ac4b972dc336a13ae5d590e1d.jar" />
+    </item>
+
+</items>
